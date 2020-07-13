@@ -172,7 +172,7 @@ Sample usage: =BibId2Title("1159654")
 License
 ----
 
-Copyright (c) [Gyokay Nurvet Mustafa](https://gyokay.cloud/). All rights reserved.
+Copyright (c) [Gokay Gursoy](https://gokay.cloud/). All rights reserved.
 
 Licensed under the [MIT](https://github.com/gyokaynurvet/Sierra-Library/blob/master/LICENSE) License.
 
