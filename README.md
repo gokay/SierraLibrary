@@ -186,4 +186,4 @@ Made with ❤ in Turkey
 [//]: # (https://techdocs.iii.com/sierraapi/Content/titlePage.htm#)
 [//]: # (https://excel-dna.net/)
 [//]: # (https://techdocs.iii.com/sierraapi/Content/zTutorials/tutAuthenticate.htm)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay)](https://github.com/anuraghazra/github-readme-stats)
+
